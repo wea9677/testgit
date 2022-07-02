@@ -72,7 +72,7 @@ function emitsamePageViewrsCount(){
   // });
 //});
 
-
+//대원님바보
 //
 // router.post("/goods", async (req, res) =>{
 //   const { goodsId, name, thumbanilUrl, category, price } = req.body;
