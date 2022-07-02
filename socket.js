@@ -3,7 +3,7 @@ const http = require("./app");
 
 
 const io = socketIo(http);
-
+//소켓이네
 
 
 
